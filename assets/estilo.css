@@ -1,0 +1,73 @@
+    .dam02, .dam03, .dam04, .dam05, .dam06, .bordes {
+        font-weight: 10;
+        padding: 20;
+        width: 20;
+    }
+
+    .bordes {
+        background-color: #dcdcdc;
+        color: rgb(102, 188, 223)
+    }
+
+    .dam02 {
+        background-color: #90ee90;
+    }
+
+    .dam01 {
+        background-color: #db7093;
+    }
+
+    .dam05 {
+        background-color: #d8bfd8;
+    }
+
+    .dam06 {
+        background-color: #ffdab9;
+    }
+
+    .dam04 {
+        background-color: #40e0d0;
+    }
+
+    .dam03 {
+        background-color: olive;
+    }
+
+    td {
+        text-align: center;
+    }
+    .div {
+        grid: flex;
+        padding:100px 200px;
+    }
+    .izquierda {
+        float: left;
+    }
+    .derecha {
+        float: right;
+        padding: 100px 100px;
+    }
+    .circulos01 {
+        background-color: #db7093;
+        border-radius: 100%;
+    }
+    .circulos02 {
+        background-color: #90ee90;
+        border-radius: 100%
+    }
+    .circulos03 {
+        background-color: olive;
+        border-radius: 100%;
+    }
+    .circulos04 {
+        background-color: #40e0d0;
+        border-radius: 100%;
+    }
+    .circulos05 {
+        background-color: #d8bfd8;
+        border-radius: 100%;
+    }
+    .circulos06 {
+        background-color: #ffdab9;
+        border-radius: 100%;
+    }
